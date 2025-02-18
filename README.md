@@ -12,4 +12,8 @@ Database Diagram:
 
 
 
-
+1. Primero debes descargar los datasets que están en la carpeta de SQL.
+2. Luego debes abrir MySQL Workbench y debes crear un nuevo schema
+3. Carga cada csv file en tu nuevo schema y crea las tablas
+4. Empieza a realizar queries de exploración de las tablas
+5. Responde preguntas de negocio con los datos 
